@@ -1,9 +1,10 @@
 {
   "name": "@blacurrant/fantasyui",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/blacurrant"
+    "registry": "https://npm.pkg.github.com/blacurrant",
+    "access": "public"
   },
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "scripts": {
     "rollup": "rollup -c"
